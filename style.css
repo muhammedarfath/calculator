@@ -16,7 +16,9 @@ a {
 }
 
 body {
-    background-image: linear-gradient( to bottom right, rgba(79,51,176,1.0),rgba(210,53,165));
+    background-image: url("https://papers.co/wallpaper/papers.co-we14-pattern-background-apple-iphone12-rainbow-1-wallpaper.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .container {
@@ -113,18 +115,18 @@ button#equal {
 }
 
 .calculator button#clear {
-    background-color: #ffd5d8;
-    color: #fc4552;
+    background-color: #D4D4D2;
+    color: #1C1C1C;
 }
 
 .calculator button.btn-number {
-    background-color: #c3eaff;
-    color: #000000;
+    background-color: #1C1C1C;
+    color: #fff;
 }
 
 .calculator button.btn-operator {
-    background-color: #ffd0fb;
-    color: #f967f3;
+    background-color: #FF9500;
+    color: #1C1C1C;
   }
   
   .calculator button.btn-equal {
